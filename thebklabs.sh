@@ -64,7 +64,7 @@ do
         git stash save --keep-index
 	git stash drop
     else
-	    echo "Error: othing ran"
+	    echo "Error: nothing ran"
     fi
 done
 
