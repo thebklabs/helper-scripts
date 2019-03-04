@@ -41,7 +41,7 @@ do
         echo "streaming"
         virtualbox --startvm $STREAM_VM &
         obs &
-        firefox -new-window TWITCH_DASH
+        firefox -new-window $TWITCH_DASH
 
     elif [ "$arg" == "-edit" ] || [ "$arg" == "-ed" ]
     then
