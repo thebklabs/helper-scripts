@@ -1,2 +1,3 @@
 # helper-scrpts
-Scripts I help with maintaining and setup thebklabs to save time
+Scripts help with maintaining and setup thebklabs to save time
+![](thebklabs-helper.gif)
